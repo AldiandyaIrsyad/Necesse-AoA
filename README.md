@@ -4,5 +4,5 @@ A Mod for the game [Necesse](https://store.steampowered.com/app/1169040/Necesse/
 
 ## Status
 
-[] Restructurization of the project to make it easier to work with.
-[] Update the mod to current game state.
+[ ] Restructurization of the project to make it easier to work with.
+[ ] Update the mod to current game state.
